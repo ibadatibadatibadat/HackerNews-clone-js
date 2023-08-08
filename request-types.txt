@@ -1,0 +1,5 @@
+CRUD:
+Create -- POST
+Read -- GET
+Upload -- PUT
+Delete -- DELETE
